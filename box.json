@@ -1,0 +1,21 @@
+{
+    "name":"My ColdBox App",
+    "version":"1.0.0",
+    "author":"You",
+    "location":"forgeboxStorage",
+    "slug":"my-coldbox-app",
+    "createPackageDirectory":false,
+    "devDependencies":{
+        "commandbox-dotenv":"*",
+        "commandbox-cfconfig":"*"
+    },
+    "installPaths":{
+        "coldbox":"coldbox/"
+    },
+    "dependencies":{
+        "coldbox":"^7.0.0"
+    },
+    "scripts":{
+
+    }
+}

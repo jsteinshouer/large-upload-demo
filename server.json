@@ -1,0 +1,10 @@
+{
+    "app":{
+        "cfengine":"${CFML_SERVER_ENGINE:lucee@5}"
+    },
+    "web":{
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
